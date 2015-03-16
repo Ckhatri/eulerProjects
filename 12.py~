@@ -1,6 +1,6 @@
 import math
 
-#this will give you a list of numberOfTri triangular numbers.
+#this will give you a list of numberOfTri triangular numbers
 def triangularNumber(numbersOfTri):
 	listOfTriNumbers = []
 	for n in range(numbersOfTri):
