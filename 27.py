@@ -1,5 +1,5 @@
 #first let us generate a list of primes, so that we can then check, if the numbers generated through the
-#quadratic equation are actually prime
+#quadratic equation are actually primed Code
 
 
 #n must start at 0 to be consecutive, so that means n^2 + an + b is just b which means b must be prime
