@@ -40,3 +40,20 @@ def main():
 
 
 main()
+
+
+# t = 1 #triangle number
+# a = 1
+# count = 0
+# while count <= 500:
+# 	count = 0
+# 	a = a+1
+# 	t = t+a
+# 	for x in range(1, t+1):
+# 		if t % x == 0:
+# 			count += 1
+# print t
+
+
+
+
