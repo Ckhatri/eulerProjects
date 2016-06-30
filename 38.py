@@ -1,3 +1,5 @@
+import time
+
 # does the multiplications to create the concat number.
 def formConcat(original, limit):
 	stringVersion = ""
